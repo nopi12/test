@@ -1,0 +1,6 @@
+com\bridgingcode\ProductOrdersAnalytics\ProductOrdersAnalyticsApplication.class
+com\bridgingcode\ProductOrdersAnalytics\model\ProductOrdersEvent.class
+com\bridgingcode\ProductOrdersAnalytics\ProductOrdersAnalyticsApplication$OrderSender.class
+com\bridgingcode\ProductOrdersAnalytics\processor\binding\ProductOrdersBindings.class
+com\bridgingcode\ProductOrdersAnalytics\processor\ProductOrdersProcessor.class
+com\bridgingcode\ProductOrdersAnalytics\controller\ProductOrdersAnalyticsController.class
